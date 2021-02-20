@@ -7,7 +7,7 @@ Descobrir que queria ser um programador após terminar um módulo de programaç�
 * CSS
 * JAVASCRIPT
 
-### Pincipais Ferrantas:
+### Pincipais Ferramentas:
 * Vs code
 * Figma
 * Windows
